@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4232","@sanity get started link","chromium","2026-06-09","passed","2026-06-09","","example.spec.ts","",""
+"","5777","TC001_Login_Logout","chromium","2026-06-09","passed","2026-06-09","Regression Tests","TestSuite.spec.ts","",""
+"","14433","@e2e @regression Verification","chromium","2026-06-09","passed","2026-06-09","","VerifyLogin.spec.ts","",""
+"","1918","has title","chromium","2026-06-09","passed","2026-06-09","Regression Tests","TestSuite.spec.ts","",""
