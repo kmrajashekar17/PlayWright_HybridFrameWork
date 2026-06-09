@@ -10,7 +10,7 @@ public url : string = "https://ctcorphyd.com/SureshIT/login.php";
 public username : string = "sureshit";
 public password : string = "sureshit";
 public empfirstname : string = "Suresh";
-public emplastname : string = "ameerpet";
+public emplastname : string = "ameeret";
 //#endregion
 
 
