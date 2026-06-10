@@ -1,1 +1,0 @@
-[{"uid":"8cf3865b0cb5cc25","name":"@smoke @sanity TC001_Login_Logout","time":{"start":1781003406827,"stop":1781003413428,"duration":6601},"status":"passed","severity":"normal"},{"uid":"cec68a908c409f3f","name":"@sanity get started link","time":{"start":1781003397723,"stop":1781003402828,"duration":5105},"status":"passed","severity":"normal"}]
