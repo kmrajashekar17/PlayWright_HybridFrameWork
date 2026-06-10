@@ -1,5 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
-import fs from 'fs';
+//import fs from 'fs';
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -12,12 +12,12 @@ import fs from 'fs';
  * See https://playwright.dev/docs/test-configuration.
  */
 
-if (fs.existsSync('allure-results')) {
+/* if (fs.existsSync('allure-results')) {
   fs.rmSync('allure-results', {
     recursive: true,
     force: true
   });
-}
+} */
 
 const timestamp = new Date()
   .toLocaleString('sv-SE')

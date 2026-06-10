@@ -18,7 +18,7 @@ console.log("Login completed");
 //verify page title
 await expect(page).toHaveTitle('SureshIT');
 //--verify logout link
-await expect(page.getByRole('link', { name: 'Logout' })).toBeVisible();
+await expect(page.getByRole('link', { name: 'Logut' })).toBeVisible();
 await page.getByRole('link', { name: 'Logout' }).click();
 console.log("Logout completed");
 
