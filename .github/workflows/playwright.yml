@@ -5,8 +5,8 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  schedules:
-  -cron '0 9 * * *'
+  schedule:
+  -cron : '0 9 * * *'
 
 jobs:
   test:
