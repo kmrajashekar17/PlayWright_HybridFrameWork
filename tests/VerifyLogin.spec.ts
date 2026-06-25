@@ -21,6 +21,5 @@ await expect(page).toHaveTitle('SureshIT');
 await expect(page.getByRole('link', { name: 'Logout' })).toBeVisible();
 await page.getByRole('link', { name: 'Logout' }).click();
 console.log("Logout completed");
-
 }
 );
